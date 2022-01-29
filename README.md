@@ -1,13 +1,10 @@
-## Welcome to my project portfolio!
+## Welcome to my portfolio of projects!
 
-This is my portfolio of projects I have worked on to practice and advance my skills and knowledge in Data Science and in the use of Machine Learning. Some of the projects are more focused on learning new datacollection skills like webscraping.
+The portfolio consists of projects I have worked on to practice and advance my skills and knowledge in Data Science and in the use of Machine Learning. Some of the projects are more focused on learning new datacollection skills like webscraping.
+***
 
-## Who am I?
-- **Name:** Mathias Busk Tjørnum
-- **Education:** Masters degree in Economics from University of Copenhagen.
-
-
-
+Feel free to contact me through on of the following channels:  
+<a href="https://https://www.linkedin.com/in/mathias-bt/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
