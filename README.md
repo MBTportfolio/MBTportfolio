@@ -4,7 +4,7 @@ The portfolio consists of projects I have worked on to practice and advance my s
 ***
 
 Feel free to contact me through one of the following channels:  
-<a href="https://https://www.linkedin.com/in/mathias-bt/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="www.linkedin.com/in/mathias-bt"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
